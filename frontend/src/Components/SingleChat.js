@@ -28,7 +28,8 @@ import animationData from "../animation/typing.json";
 
 
 
-const ENDPOINT = "http://localhost:5000";
+// const ENDPOINT = "http://localhost:5000";
+const ENDPOINT = "*";
 var socket, selectedChatCompare;
 
 
