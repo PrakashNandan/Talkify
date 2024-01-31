@@ -29,7 +29,7 @@ import animationData from "../animation/typing.json";
 
 
 // const ENDPOINT = "http://localhost:5000";
-const ENDPOINT = "*";
+const ENDPOINT = "https://talkify-yhz4.onrender.com";
 var socket, selectedChatCompare;
 
 
